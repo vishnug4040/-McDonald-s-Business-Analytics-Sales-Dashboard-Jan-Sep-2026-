@@ -5,9 +5,13 @@ The goal of this project is to understand sales performance, identify top-perfor
 The Power BI report contains four interactive dashboard pages:
 
 🏠 Home: Overall business performance and key performance indicators.
+
 📈 Sales Analysis: Revenue trends, order patterns, payment methods, and sales channels.
+
 🍔 Product Analysis: Product performance, category comparisons, sales volume, and profitability.
+
 🏪 Store Analysis: Store-level revenue, regional comparisons, and store-type performance.
+
 🛠️ Tools & Technologies
 Tool	Purpose
 Python	Data loading, cleaning, and preparation
