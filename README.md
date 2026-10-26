@@ -71,11 +71,13 @@ How do revenue and profit change over time?
 A suggested structure for organizing the project files:
 
 McDonalds-Business-Analytics-2026/
+
 │
 ├── data/
 │   ├── raw/
 │   └── cleaned/
 │
+
 ├── python/
 │   └── data_cleaning.ipynb
 │
@@ -83,15 +85,18 @@ McDonalds-Business-Analytics-2026/
 │   ├── create_tables.sql
 │   └── business_analysis_queries.sql
 │
+
 ├── powerbi/
 │   └── McDonalds_Business_Analytics.pbix
 │
+
 ├── screenshots/
 │   ├── home_dashboard.png
 │   ├── sales_analysis.png
 │   ├── product_analysis.png
 │   └── store_analysis.png
 │
+
 └── README.md
 
 This is a suggested structure. Include only files and folders that exist in your repository.
