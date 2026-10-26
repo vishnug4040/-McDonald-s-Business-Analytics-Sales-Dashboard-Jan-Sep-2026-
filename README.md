@@ -115,8 +115,3 @@ Data storytelling and visualization
 
 This project demonstrates an end-to-end analytics workflow, from raw data preparation to interactive business reporting. It showcases how Python, SQL, and Power BI can be combined to support data-driven decision-making.
 
-
-
-Your Name
-
-Data Analytics Project | Python • MySQL • Power BI
